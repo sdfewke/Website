@@ -70,6 +70,7 @@ main {
   width: 75%;
   position: relative;
   transform: translateY(100%);
+  text-shadow: 2px 2px #000000bb;
 }
 
 #maintext {
